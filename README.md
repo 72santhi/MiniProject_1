@@ -1,1 +1,1 @@
-# MiniProject_1
+# TicTacToe - Mini Project 1
