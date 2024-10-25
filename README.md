@@ -24,9 +24,7 @@ This is a simple command-line Tic-Tac-Toe game implemented in Python. The game a
 
 2. Run the game:
 
-```bash
-python tic_tac_toe.py
-
-
+   ```bash
+   python tic_tac_toe.py
 
 3. Follow the on-screen instructions to play the game.
