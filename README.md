@@ -8,7 +8,7 @@ This is a simple command-line Tic-Tac-Toe game implemented in Python. The game a
 
 - **Two-player mode**: Players take turns to make their moves.
 - **Input validation**: Ensures players can only enter valid row and column numbers.
-- **Win and draw detection**: Automatically detects if a player has won or if the game ends in a draw.
+- **Win and draw**: Automatically detects if a player has won or if the game ends in a draw.
 
 ## Requirements
 
