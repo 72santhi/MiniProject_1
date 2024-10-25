@@ -19,7 +19,7 @@ This is a simple command-line Tic-Tac-Toe game implemented in Python. The game a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/72santhi/MiniProject_1.git
+   git clone https://github.com/72santhi/MiniProject_A.git
    cd tic-tac-toe
 
 2. Run the game:
